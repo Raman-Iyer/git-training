@@ -1,8 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return <>Flow_2</>;
+  return (
+    <div>
+      <p>Flow_2</p>
+    </div>
+  );
 }
 
 export default App;
